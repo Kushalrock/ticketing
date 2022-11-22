@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/GoogleContainerTools/skaffold/master/docs/content/en/schemas/v2alpha3.json": "file:///d%3A/Projects/JS%20Backend/microservices-with-node-and-docker/ticketing/skaffold.yaml"
+    }
+}
